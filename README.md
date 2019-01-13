@@ -5,7 +5,7 @@
 [Следующие Руби встречи](https://github.com/ruby-vladivostok/ruby-vladivostok.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Ameetup)
 и список [предыдущих встреч](https://github.com/ruby-vladivostok/ruby-vladivostok.github.io/issues?q=is%3Aissue+label%3Ameetup+is%3Aclosed).
 
-Подписывайтес через watch кнопку в этом репозитории, убедитесь что приходят email уведомления с github и вы не пропустите следующую Ruby встречу во Владивостоке.
+Подписывайтес через watch кнопку в этом репозитории. Убедитесь что приходят email уведомления с github и вы не пропустите следующую Ruby встречу во Владивостоке.
 
 ## Контакты
 
