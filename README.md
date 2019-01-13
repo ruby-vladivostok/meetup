@@ -2,8 +2,8 @@
 
 Локальная группа города Владивостока для тех, кто любит, пишет, интересуется языком программирования Ruby.
 
-[Следующие Руби встречи](https://github.com/ruby-vladivostok/ruby-vladivostok.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Ameetup)
-и список [предыдущих встреч](https://github.com/ruby-vladivostok/ruby-vladivostok.github.io/issues?q=is%3Aissue+label%3Ameetup+is%3Aclosed).
+[Следующие Руби встречи](https://github.com/ruby-vladivostok/meetup/issues?q=is%3Aopen+is%3Aissue+label%3Ameetup)
+и список [предыдущих встреч](https://github.com/ruby-vladivostok/meetup/issues?q=is%3Aissue+is%3Aclosed+label%3Ameetup).
 
 Подписывайтес через watch кнопку в этом репозитории. Убедитесь что приходят email уведомления с github и вы не пропустите следующую Ruby встречу во Владивостоке.
 
